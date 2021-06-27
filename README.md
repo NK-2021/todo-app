@@ -1,3 +1,8 @@
+# Project Details: Todo Application build in React 
+1) Able to Add an item.
+2) Edit and Item from the List.
+3) Delete an item from the List.
+<img width="331" alt="todo-app" src="https://user-images.githubusercontent.com/85902045/123548100-089a1200-d781-11eb-8c58-b1216f7a1c8c.png">
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
